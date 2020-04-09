@@ -1,0 +1,42 @@
+[33mcommit cdfb074f936f47439a22f4c7fc8f609331dac5a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4d46a5c e53a748
+Author: Your Name <you@example.com>
+Date:   Thu Apr 9 17:46:00 2020 +0300
+
+     fix merge conflict
+
+[33mcommit 4d46a5c47c3caa5bf1551513a44c3ceda778364b[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 9 17:18:01 2020 +0300
+
+    aded
+
+[33mcommit e53a7486f29c2cd277a0d4591e73bbce171a98ce[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: JawdatEisa <63404038+JawdatEisa@users.noreply.github.com>
+Date:   Thu Apr 9 17:12:00 2020 +0300
+
+    Update helloo.html
+
+[33mcommit 521a0d2aaceb3836bdb70b64b3556b6c396716d5[m
+Author: JawdatEisa <63404038+JawdatEisa@users.noreply.github.com>
+Date:   Thu Apr 9 17:09:09 2020 +0300
+
+    Update helloo.html
+
+[33mcommit 57315e1494803b8a78e8a082daa8a174860cae66[m
+Author: JawdatEisa <63404038+JawdatEisa@users.noreply.github.com>
+Date:   Thu Apr 9 16:59:09 2020 +0300
+
+    Update helloo.html
+
+[33mcommit 8c31c8e020656a955879898c99a66df467a23abf[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 9 16:48:47 2020 +0300
+
+    added helloo.html
+
+[33mcommit 942f18a7e27199349888642d1276afa9029ef62a[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 9 16:45:23 2020 +0300
+
+    Added helloo/html
